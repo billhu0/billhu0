@@ -5,7 +5,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - 🔭 I’m currently **an undergraduate at ShanghaiTech University.**
-- 👨‍💻 I’m interested in **C, C++, x86 asm**, as well as **JavaScript, TypeScript and Python...**
+- 👨‍💻 I’m interested in **C, C++, JavaScript, TypeScript and Python...**
 - 💬 All of my projects are available at <a href="https://github.com/billhu0?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="billhu0" height="30" width="40" /></a>
 
 
