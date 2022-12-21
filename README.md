@@ -4,24 +4,15 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🔭 I’m currently **an undergraduate at ShanghaiTech University.**
-- 👨‍💻 I’m interested in **C, C++, JavaScript, TypeScript and Python...**
-- 💬 All of my projects are available at <a href="https://github.com/billhu0?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="billhu0" height="30" width="40" /></a>
+- 🔭 I’m currently **an undergraduate at ShanghaiTech University**.
+- 👨‍💻 I’m interested in **C, C++, JavaScript, TypeScript and Python...**.
+- 💬 My projects are available at <a href="https://github.com/billhu0?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="billhu0" height="30" width="40" /></a>
 
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
-<p align="center">
-    <!-- <a href="https://github.com/abhinandanraj"> -->
-        <img  src="https://github-readme-stats.vercel.app/api?username=billhu0&hide=contribs,issues&count_private=true">
-    <!-- </a> -->
-    <!-- <a href="https://github.com/abhinandanraj/github-readme-stats"> -->
-        <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=billhu0&layout=compact&hide_border=false&langs_count=8">
-    <!-- </a> -->
-</p>
 
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=billhu0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billhu0&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=billhu0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=contribs,issues" alt="Bill Hu's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billhu0&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
 
 <p align="center">
