@@ -3,7 +3,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🔭 I’m currently studying at **University of Wisconsin-Madison**.
+- 🔭 See my ![Portfolio (about.billhu.us)](about.billhu.us) to learn more about me :)
 
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
