@@ -3,14 +3,20 @@
 
 ## **About Me:**
 
-- 🔭 See my [Portfolio (about.billhu.us)](https://about.billhu.us) to learn more about me :)
+- Undergraduate Student @ ShanghaiTech University
+- Exchange Student @ UW-Madison
+- 🔭 https://about.billhu.us
 
 
 ## **Github Stats:**
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=billhu0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=contribs,issues" alt="Bill Hu's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billhu0&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
-| ------------- | ------------- |
+<p align="center">
+<a href="https://github.com/HarukiMoriarty">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=billhu0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=contribs,issues"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=billhu0&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
