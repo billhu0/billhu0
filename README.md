@@ -3,7 +3,8 @@
 
 ## **About Me:**
 
-- Undergraduate Student @ ShanghaiTech University
+- Master's Student @ Carnegie Mellon University
+- Undergraduate @ ShanghaiTech University
 - Exchange Student @ UW-Madison
 - 🔭 https://about.billhu.us
 
@@ -12,7 +13,7 @@
 
 
 <p align="center">
-<a href="https://github.com/HarukiMoriarty">
+<a href="https://github.com/billhu0">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=billhu0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=contribs,issues"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=billhu0&layout=compact&langs_count=8&theme=algolia"/>
 </a>
