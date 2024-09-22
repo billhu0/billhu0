@@ -3,10 +3,10 @@
 
 ## **About Me:**
 
-- Master's Student @ Carnegie Mellon University
-- Undergraduate @ ShanghaiTech University
-- Exchange Student @ UW-Madison
-- 🔭 https://about.billhu.us
+- Master's Student in Information Networking @ Carnegie Mellon University
+- Undergraduate in Computer Science and Technology @ ShanghaiTech University
+- Exchange Student in Computer Science@ UW-Madison
+- 🔭 More: https://about.billhu.us
 
 
 ## **Github Stats:**
