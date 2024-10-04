@@ -3,10 +3,9 @@
 
 ## **About Me:**
 
-- Master's Student in Information Networking @ Carnegie Mellon University
-- Undergraduate in Computer Science and Technology @ ShanghaiTech University
-- Exchange Student in Computer Science@ UW-Madison
-- 🔭 More: https://about.billhu.us
+- I'm currently a Master's Student in Information Networking @ Carnegie Mellon University
+- I'm seeking for 2025 summer internship. 
+- 🔭 Welcome to my Homepage: https://www.billhu.xyz/
 
 
 ## **Github Stats:**
