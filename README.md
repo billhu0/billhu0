@@ -3,9 +3,10 @@
 
 ## **About Me:**
 
-- I'm currently a Master's Student in Information Networking @ Carnegie Mellon University
-- I'm seeking for 2025 summer internship. 
 - 🔭 Welcome to my Homepage: https://www.billhu.xyz/
+- I'm currently a Master's Student in Information Networking @ Carnegie Mellon University.
+- I'm actively seeking for 2025 summer internship. 
+- Additionally, welcome to visit by [blog (www.billhu.us)](https://www.billhu.us), posting some of my learning notes and articles in mixed English and Chinese. 
 
 
 ## **Github Stats:**
